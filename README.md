@@ -9,4 +9,6 @@ Anyways, I do expect to publish a bit more of my university projects :)
 
 Have a great day! 
 
-![giphy](https://github.com/LMangrich/Library-Management-System/assets/101907145/28db54d0-f6ba-4fb5-a4f3-3fee69f8a939)
+<p align="center">
+  <img src="(https://github.com/LMangrich/Library-Management-System/assets/101907145/28db54d0-f6ba-4fb5-a4f3-3fee69f8a939)" alt="animated" />
+</p>
