@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707353553 source:c:\users\user-pc\desktop\testeesss\main.cpp
+	<iostream>
+	<limits>
+	<stdlib.h>
+
